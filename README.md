@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi humans!
+Find myself. 
+Become a good person.
